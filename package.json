@@ -19,6 +19,9 @@
   "homepage": "https://github.com/qaisalmanasra/airline-system#readme",
   "dependencies": {
     "@faker-js/faker": "^7.3.0",
-    "nodemon": "^2.0.18"
+    "dotenv": "^16.0.1",
+    "faker": "^6.6.6",
+    "nodemon": "^2.0.18",
+    "uuid": "^8.3.2"
   }
 }
